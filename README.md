@@ -15,6 +15,8 @@
 * CSS3
 
 ## Screenshots
+[here](https://trello.com/b/VNo6agLI/the-never-bored-couples) is our trello board!!
+
 <img src="https://i.imgur.com/ZjntmH5.png"/>
 <img src="https://i.imgur.com/jqWGF04.png"/>
 
