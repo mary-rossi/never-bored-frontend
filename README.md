@@ -15,7 +15,7 @@
 * CSS3
 
 ## Screenshots
-<img src="https://imgur.com/ZjntmH5"/>
+<img src="https://i.imgur.com/ZjntmH5.png"/>
 <img src="https://i.imgur.com/jqWGF04.png"/>
 
 ## Check it out ;P
