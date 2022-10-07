@@ -15,8 +15,8 @@
 * CSS3
 
 ## Screenshots
-![index]<img src="https://i.imgur.com/jqWGF04.png"/>
-![show]<img src="https://imgur.com/a/eeNGM2g"/>
+<img src="https://imgur.com/a/eeNGM2g.png"/>
+<img src="https://i.imgur.com/jqWGF04.png"/>
 
 ## Check it out ;P
 [here](https://clinquant-frangipane-d5018e.netlify.app/) is the project!! Let us know what you think :)
